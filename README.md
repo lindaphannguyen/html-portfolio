@@ -4,8 +4,6 @@
 
 <p>Welcome to my first HTML beginner portfolio! This portfolio showcases two projects: Movie Ranking and Birthday Invitation websites, both created using HTML with the help of Visual Studio Code.</p>
 
-<h/ >
-
 <h2>Projects Included:</h2>
 
 <ol>
